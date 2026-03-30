@@ -1,32 +1,63 @@
-<h1> Hola! Soy <a href="https://linktr.ee/santiagolopezfabbri" > Santiago Lopez Fabbri. </a> </h1>
+<h1>👋 Hola! Soy <a href="https://linktr.ee/santiagolopezfabbri">Santiago López Fabbri</a></h1>
 
- Soy un Desarrollador Web Full-Stack diplomado en la UTN, con base en Buenos Aires, Argentina. 
+<p>
+💻 Desarrollador Web Full Stack diplomado en la UTN<br>
+📍 Buenos Aires, Argentina
+</p>
 
-Me enfoco en diseñar y construir proyectos innovadores. Si una idea nueva se cruza por mi cabeza, lo mas probable es que la plasme en codigo. 
+<p>
+Me enfoco en diseñar y construir aplicaciones modernas, escalables y con identidad.
+Si una idea aparece, la convierto en código.
+</p>
 
-<h3> Mi stack principal es... </h3>
-Tailwind, CSS3, JavaScript (ES6+), React + Vite, Python, Node.JS, MongoDB y MySQL. Mis herramientas favoritas para mi trabajo son Figma, Canva y Visual Studio Code.
+<hr>
 
-En este momento estoy migrando mis proyectos a GitHub, pero el que mas me gusta hasta ahora es <a href="https://portfolioslf.com"> Mi Portfolio</a>, el cual ya tengo hosteado en un dominio.
+<h2>🚀 Stack Tecnológico</h2>
 
-<strong> Datos Curiosos </strong> :
+<p>
+<strong>Frontend:</strong> TailwindCSS, CSS3, JavaScript (ES6+), React + Vite<br>
+<strong>Backend:</strong> Node.js, Python<br>
+<strong>Base de Datos:</strong> MongoDB, MySQL
+</p>
 
-- Tambien soy baterista.
-- Tengo un perro.
-- No me gusta el café o el té.
-- <strong> Hobbies </strong>: Anime, Gym, Videojuegos.
+<p>
+<strong>Herramientas:</strong> Figma, Canva, Visual Studio Code
+</p>
 
-<!--
-**L0FA/L0FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2>🌐 Proyecto Destacado</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Actualmente estoy migrando y organizando mis proyectos en GitHub.<br>
+Mi proyecto principal es:
+</p>
+
+<p>
+👉 <a href="https://portfolioslf.com"><strong>Mi Portfolio</strong></a>
+</p>
+
+<p>
+Una web personal donde combino desarrollo, diseño y experiencia de usuario.
+</p>
+
+<hr>
+
+<h2>🧠 Sobre mí</h2>
+
+<ul>
+  <li>Siempre buscando mejorar mis habilidades como desarrollador</li>
+  <li>Me interesa crear proyectos con identidad, no solo funcionales</li>
+  <li>Disfruto aprender nuevas tecnologías y aplicarlas en proyectos reales</li>
+</ul>
+
+<hr>
+
+<h2>⚡ Datos Curiosos</h2>
+
+<ul>
+  <li>🥁 Baterista</li>
+  <li>🐶 Tengo un perro</li>
+  <li>🚫 No tomo café ni té</li>
+  <li>🎮 Hobbies: Anime, gym y videojuegos</li>
+</ul>
