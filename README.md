@@ -17,7 +17,7 @@ Si una idea aparece, la convierto en código.
 <p>
 <strong>Frontend:</strong> TailwindCSS, CSS3, JavaScript (ES6+), ReactJS, NextJS, Vite <br>
 <strong>Backend:</strong> Node.js, Python, Django <br>
-<strong>Base de Datos:</strong> MongoDB, MySQL
+<strong>Base de Datos:</strong> MongoDB, MySQL <br>
 <strong>Deployment:</strong> Vercel, Render, Hostinger, Docker, Ngrok
 </p>
 
