@@ -15,9 +15,10 @@ Si una idea aparece, la convierto en código.
 <h2>🚀 Stack Tecnológico</h2>
 
 <p>
-<strong>Frontend:</strong> TailwindCSS, CSS3, JavaScript (ES6+), React + Vite<br>
-<strong>Backend:</strong> Node.js, Python<br>
+<strong>Frontend:</strong> TailwindCSS, CSS3, JavaScript (ES6+), ReactJS, NextJS, Vite <br>
+<strong>Backend:</strong> Node.js, Python, Django <br>
 <strong>Base de Datos:</strong> MongoDB, MySQL
+<strong>Deployment:</strong> Vercel, Render, Hostinger, Docker, Ngrok
 </p>
 
 <p>
