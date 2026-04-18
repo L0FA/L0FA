@@ -31,11 +31,14 @@ Si una idea aparece, la convierto en código.
 
 <p>
 Actualmente estoy migrando y organizando mis proyectos en GitHub.<br>
-Mi proyecto principal es:
+Mis proyectos principales actualmente son:
 </p>
 
 <p>
 👉 <a href="https://portfolioslf.com"><strong>Mi Portfolio</strong></a>
+  <a href="https://chat.portfolioslf.com"><strong>L0FAChat</strong></a>
+  <a href="https://aprendeprogramando.portfolioslf.com"><strong>Aprende Programando</strong></a>
+  <a href="https://popcorn.portfolioslf.com"><strong>Popcorn</strong></a>
 </p>
 
 <p>
