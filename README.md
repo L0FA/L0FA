@@ -36,9 +36,9 @@ Mis proyectos principales actualmente son:
 
 <p>
 👉 <a href="https://portfolioslf.com"><strong>Mi Portfolio</strong></a><br>
-  <a href="https://chat.portfolioslf.com"><strong>L0FAChat</strong></a><br>
-  <a href="https://aprendeprogramando.portfolioslf.com"><strong>Aprende Programando</strong></a><br>
-  <a href="https://popcorn.portfolioslf.com"><strong>Popcorn</strong></a><br>
+👉 <a href="https://chat.portfolioslf.com"><strong>L0FAChat</strong></a><br>
+👉 <a href="https://aprendeprogramando.portfolioslf.com"><strong>Aprende Programando</strong></a><br>
+👉 <a href="https://popcorn.portfolioslf.com"><strong>Popcorn</strong></a><br>
 </p>
 
 <p>
